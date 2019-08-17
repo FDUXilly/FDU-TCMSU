@@ -1,4 +1,5 @@
-# FDU-TCMSU
+# FDU-TCMSU (FDU/SHUTCM tongue image dataset)
+
 Description of the FDU/SHUTCM Tongue image Dataset:
 
 We have collected 5600 tongue images in JPG image format, and most of them are taken by people who have not received professional guidance in a random environment.
