@@ -25,6 +25,17 @@ This database will only be used for research purposes.
 I will not make any part of this database available to a third party. 
 
 I'll not sell any part of this database or make any profit from its use.
+
+
+# cite
+@inproceedings{li2019automatic,
+  title={Automatic Tongue Image Segmentation For Real-Time Remote Diagnosis},
+  author={Li, Xinlei and Yang, Dawei and Wang, Yan and Yang, Shuai and Qi, Lizhe and Li, Fufeng and Gan, Zhongxue and Zhang, Wenqiang},
+  booktitle={2019 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  pages={409--414},
+  year={2019},
+  organization={IEEE}
+}
 	
 # Contact Authors
 Xinlei Li, e-mail: 18110860019@fudan.edu.cn
